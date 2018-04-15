@@ -11,7 +11,7 @@ Some still might not be sold. By forgoing starts from best starters, some argue 
 
 And finally, the question of if pitchers can pitch on 4 days rest if they are only going 3-5 innings at a time is important to consider.  Russel Carelton showed [here](https://www.baseballprospectus.com/news/article/22423/baseball-therapy-what-happened-to-the-four-man-rotation/) that pitchers going on 3 days of rest are unaffected in their performance. I hypothesize that pitching less per outing but pitching in more games would allow a pitcher to perform slightly better in each outing than they would pitching a full 5 or 6 innings. However, the effects of pitching a couple innings every other day or every three days could catch up to a pitcher over the course of a season. Then again, it could be beneficial to the pitcher by allowing them more opportunity to work on their craft.  But a strategy such as the one proposed here calls for very short rest and short outings throughout the year, something that hasnt been seen in decades.
 
-Simulation Specifics
+**bold** Simulation Specifics
 
 I created a Monte Carlo simulation in Python with the ultimate  goal of seeing if two teams, comprised of the same exact pitchers, may achieve different results using different pitching management  strategies. 
 
