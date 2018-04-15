@@ -1,6 +1,6 @@
 # sim-project
 
-                        Using a Monte Carlo Simulation to propose a Radical Rotation Stragety
+                        Using a Monte Carlo Simulation to Propose a Radical 4-Man Rotation
 Much has been made of the 'bullpen revolution' over the past couple of years. Andrew Miller and Chris Devinski represent relievers on the forefront of the revolution, on teams at the forefront of innovation. The Astros rotuinley use Devinski in the middle innings, and for multiple innings. Devinski, a skilled pitcher who could close on many teams, provides a bridge to the 'high leverage relievers' , and affords the Astros bullpen flexibility that is usually unseen with conventional bullpen management. Conventional bullpen management calls the starter to pitch at least 6 innings, with high leverage relivers then entering to close the game.  However, as pointed out in recent articles by Russel Carleton at Baseball Prospectus, starting pitchers often fail to reach the sixth inning. Starters are pitching less every year, and real evidence has been found of pitchers wearing down at the end of games. 
 
 Carelton, and others at Baseball Prospectus, have examined different possible rotations constructs that would make starters more efficient. Rotation ideas include tandem starters, 4 man rotations, 6 man rotations, and others. What I propose is something slightly different and more radical. 
